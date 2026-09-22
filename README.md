@@ -1,24 +1,28 @@
-ReactTS UI Challenge
+# ReactTS UI Challenge
 
 A responsive NFT marketplace UI built with React, TypeScript, Vite, and plain CSS as part of the CodeTribe / MLab ReactTS UI Challenge.
 
- Technologies
-React
-TypeScript
-Vite
-Plain CSS
-CSS Grid & Flexbox
-Lucide React
+## Technologies
 
-  Features
-Responsive design
-Mobile navigation
-Reusable React components
-NFT cards and categories
-Interactive buttons and hover effects
-Responsive desktop, tablet and mobile layouts
+* React
+* TypeScript
+* Vite
+* Plain CSS
+* CSS Grid & Flexbox
+* Lucide React
 
- Project Structure
+## Features
+
+* Responsive design
+* Mobile navigation
+* Reusable React components
+* NFT cards and categories
+* Interactive buttons and hover effects
+* Responsive desktop, tablet, and mobile layouts
+
+## Project Structure
+
+```text
 src/
 ├── components/
 ├── data/
@@ -26,7 +30,15 @@ src/
 ├── App.css
 ├── index.css
 └── main.tsx
+```
 
- Run Locally
+## Run Locally
+
+```bash
 npm install
 npm run dev
+```
+
+## Live Demo
+
+https://yourstruly12.github.io/codetribe-kimberley-alt-projects/
